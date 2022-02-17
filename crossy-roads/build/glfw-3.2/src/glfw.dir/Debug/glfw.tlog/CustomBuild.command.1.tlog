@@ -1,0 +1,10 @@
+^C:\USERS\KAYLA\ONEDRIVE\DOCUMENTS\GITHUB\FINAL-PROJECT-TEAM-DANTE-THE-DOG\CROSSY-ROADS\GLFW-3.2\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads -BC:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/build --check-stamp-file C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/build/glfw-3.2/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\KAYLA\ONEDRIVE\DOCUMENTS\GITHUB\FINAL-PROJECT-TEAM-DANTE-THE-DOG\CROSSY-ROADS\BUILD\CMAKEFILES\9D65DA346BF719B1558A487261CB49A9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads -BC:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/build/FINAL_PROJECT_CROSSY_ROADS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

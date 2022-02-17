@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/glfw-3.2/CMake/modules/FindVulkan.cmake
+C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/glfw-3.2/CMakeLists.txt
+C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/glfw-3.2/src/glfw3.pc.in
+C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/glfw-3.2/src/glfw3Config.cmake.in
+C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/glfw-3.2/src/glfw_config.h.in

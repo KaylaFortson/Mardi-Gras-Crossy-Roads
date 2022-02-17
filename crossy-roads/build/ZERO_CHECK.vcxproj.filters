@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\build\CMakeFiles\9d65da346bf719b1558a487261cb49a9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{30E5FE3F-8FDE-3FB7-9A49-6AB9BFAF5624}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

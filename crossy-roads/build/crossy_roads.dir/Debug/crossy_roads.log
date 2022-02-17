@@ -1,0 +1,210 @@
+﻿  Building Custom Rule C:/Users/Kayla/OneDrive/Documents/GitHub/final-project-team-dante-the-dog/crossy-roads/CMakeLists.txt
+  pelican.cpp
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(47,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(48,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(710,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(731,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(733,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(736,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(753,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\Angel.h(66,14): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.h(31,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(199,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(200,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(201,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(202,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(203,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(204,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(205,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(206,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(207,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(208,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(209,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(210,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(211,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(212,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(213,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(214,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(215,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(216,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(217,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(218,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(219,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(220,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(221,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(222,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(225,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(226,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(227,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(228,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(229,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(230,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(231,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(232,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(233,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(234,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(235,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(236,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(237,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(238,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(239,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(240,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(241,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(242,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(243,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(244,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(245,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(246,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(247,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(248,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(281,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(282,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(283,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(284,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(285,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(286,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(287,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(288,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(289,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(290,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(291,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(292,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(293,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(294,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(295,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.cpp(296,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  floats.cpp
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(47,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(48,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(710,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(731,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(733,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(736,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(753,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\Angel.h(66,14): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.h(31,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(87,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(88,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(89,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(90,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(92,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(93,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(94,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(95,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(101,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(102,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(103,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(104,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(105,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(106,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(107,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(108,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(109,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(110,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(111,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(112,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(113,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(114,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(115,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(116,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(117,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(118,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(119,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(120,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(121,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(122,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(123,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(124,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(125,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(126,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(127,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(128,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(129,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(130,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(131,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(132,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(134,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(135,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(136,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(137,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(138,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(139,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(140,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\floats.cpp(141,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  lane.cpp
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(47,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(48,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(710,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(731,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(733,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(736,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(753,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\Angel.h(66,14): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.h(31,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\lane.cpp(104,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\lane.cpp(105,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\lane.cpp(106,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\lane.cpp(107,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  grass.cpp
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(47,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(48,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(710,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(731,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(733,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(736,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(753,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\Angel.h(66,14): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.h(31,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(15,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(16,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(20,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(21,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(25,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(26,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(28,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(29,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(30,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(31,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(33,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(34,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(35,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(36,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(38,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(39,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(40,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\grass.cpp(41,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  main.cpp
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(47,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common/Angel.h(48,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(710,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(731,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(733,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(736,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\mat.h(753,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\common\Angel.h(66,14): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\pelican.h(31,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\main.cpp(124,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\main.cpp(377,47): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\source\main.cpp(378,47): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  shader.cpp
+  u8names.cpp
+  Generating Code...
+  crossy_roads.vcxproj -> C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\build\Debug\crossy_roads.exe

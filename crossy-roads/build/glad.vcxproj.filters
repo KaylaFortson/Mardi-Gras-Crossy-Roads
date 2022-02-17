@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\glfw-3.2\deps\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\glfw-3.2\deps\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kayla\OneDrive\Documents\GitHub\final-project-team-dante-the-dog\crossy-roads\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A5516B18-660A-3308-9BB0-72324AC53525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{92A0D234-3C5A-371B-8269-8116BE9008B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
